@@ -1,0 +1,112 @@
+<data>
+  <ConfigVersion Value="67" />
+  <ReleaseSendLogChance Hack="1" Exc="1" NuR="1" Dbl="1" />
+  <BalancerItemSortType Value="1" />
+  <UserFractioning Chance="1" />
+  <LocalGemsLimit Value="100000" />
+  <key Value="{EaLnMQEOaMKf/6jrQnVqpWwC91O3DJE8PEnmu/fZzf0=}" />
+  <IgnoredExceptions>
+    <ExcData PartName="" PartStackTrace="" PartLog="" />
+    <ExcData PartName="" />
+    <ExcData />
+    <ExcData PartName="Socket" PartStackTrace="CUDLR" PartLog="address" />
+    <ExcData PartName="Exc1" PartStackTrace="RaidBetaLog" PartLog="" />
+    <ExcData PartName="Exc2" PartStackTrace="" PartLog="" />
+    <ExcData PartName="Exc2" PartStackTrace="" PartLog="text" />
+    <ExcData PartName="Exc2_AND" PartStackTrace="" PartLog="" Platform="And" />
+  </IgnoredExceptions>
+  <Variables>
+    <item Name="EventEnd" Value="1704880800" PlatformID="2,11" MinVersion="3.7.0" />
+    <item Name="OfflineSupportEnd" Value="1742200000" PlatformID="2,11" MinVersion="2.24.0" />
+    <item Name="NotEnoughCurrencyColor" Value="#9b1c07" />
+    <item Name="AutoShowRaidDailyWindow" Value="1" />
+    <item Name="SurvivalRestartLimitPerFight" Value="1" />
+    <item Name="SurvivalRestartTimerValue" Value="10" />
+  </Variables>
+  <platform>
+    <item PlatformID="1" Name="iOS" />
+    <item PlatformID="2" Name="Android" />
+    <item PlatformID="3" Name="Simulator" />
+    <item PlatformID="9" Name="Samsung" />
+    <item PlatformID="11" Name="Huawei" />
+  </platform>
+  <versions>
+    <item ID="8" PlatformID="2" Version="3.8.0" ReleaseDate="" />
+    <item ID="12" PlatformID="11" Version="3.8.0" ReleaseDate="" />
+  </versions>
+  <GAMEDATA />
+  <IconDojo>
+    <Icon Type="BP" PlatformID="2,3" url="" EndDate="1658134800" StartDate="" ImageURL="" ImageURLHash="" />
+  </IconDojo>
+  <news>
+    <item ID="1" Name="WarmongerSetSales" PlatformID="2" LangID="ru" MinVersion="2.23.0" SpenderTypeID="" EndDate="1783690000" StartDate="1683473000" ImageURL="http://193.233.134.143:169/news/warmonger_zVm9FWI2/eng.png" ImageURLHash="">
+      <Button Text="compareCloseBtn" Color="Beige" Url="" />
+      <Button Text="dlgBtnRedirect" Color="Green" Url="https://t.me/solanaplomi" RedirectShop="" />
+    </item>
+    <item ID="1" Name="WarmongerSetSales" PlatformID="2" LangID="en" MinVersion="2.23.0" SpenderTypeID="" EndDate="1783690000" StartDate="1683473000" ImageURL="http://193.233.134.143:169/news/warmonger_zVm9FWI2/eng.png" ImageURLHash="">
+      <Button Text="compareCloseBtn" Color="Beige" Url="" />
+      <Button Text="dlgBtnRedirect" Color="Green" Url="https://t.me/solanaplomi" RedirectShop="" />
+    </item>
+    <item ID="1" Name="WarmongerSetSales" PlatformID="2" LangID="tr" MinVersion="2.23.0" SpenderTypeID="" EndDate="1783690000" StartDate="1683473000" ImageURL="http://193.233.134.143:169/news/warmonger_zVm9FWI2/eng.png" ImageURLHash="">
+      <Button Text="compareCloseBtn" Color="Beige" Url="" />
+      <Button Text="dlgBtnRedirect" Color="Green" Url="https://t.me/solanaplomi" RedirectShop="" />
+    </item>
+    <item ID="1" Name="WarmongerSetSales" PlatformID="11" LangID="ru" MinVersion="2.23.0" SpenderTypeID="" EndDate="1783690000" StartDate="1683473000" ImageURL="http://193.233.134.143:169/news/warmonger_zVm9FWI2/eng.png" ImageURLHash="">
+      <Button Text="compareCloseBtn" Color="Beige" Url="" />
+      <Button Text="dlgBtnRedirect" Color="Green" Url="https://t.me/solanaplomi" RedirectShop="" />
+    </item>
+    <item ID="1" Name="WarmongerSetSales" PlatformID="11" LangID="en" MinVersion="2.23.0" SpenderTypeID="" EndDate="1783690000" StartDate="1683473000" ImageURL="http://193.233.134.143:169/news/warmonger_zVm9FWI2/eng.png" ImageURLHash="">
+      <Button Text="compareCloseBtn" Color="Beige" Url="" />
+      <Button Text="dlgBtnRedirect" Color="Green" Url="https://t.me/solanaplomi" RedirectShop="" />
+    </item>
+    <item ID="1" Name="WarmongerSetSales" PlatformID="11" LangID="tr" MinVersion="2.23.0" SpenderTypeID="" EndDate="1783690000" StartDate="1683473000" ImageURL="http://193.233.134.143:169/news/warmonger_zVm9FWI2/eng.png" ImageURLHash="">
+      <Button Text="compareCloseBtn" Color="Beige" Url="" />
+      <Button Text="dlgBtnRedirect" Color="Green" Url="https://t.me/solanaplomi" RedirectShop="" />
+    </item>
+  </news>
+  <video>
+    <item ID="135" Name="shadow_gate.mp4" Url="https://assets.nekkimobile.ru/shadowfight/video/shadow_gate.mp4" MinVersion="2.0.0" PlatformID="2" Attach="0" ObjectNumber="3" Active="0" Reload="0" Size="6324209" Hash="c48c9a2505745193d137dc742ad24418" />
+    <item ID="135" Name="Shadow_fight_ending.mp4" Url="https://assets.nekkimobile.ru/shadowfight/video/Shadow_fight_ending.mp4" MinVersion="2.0.0" PlatformID="2" Attach="0" ObjectNumber="2" Active="0" Reload="0" Size="6174357" Hash="2fb0f27957f4147352f541774893fc24" />
+  </video>
+  <settings>
+    <item ID="1" LogFrequency="64" LoginFrequency="900" DumpServerGet="" DumpServerPut="" ServerTimeUrl="https://time-server.nekkimobile.ru/time.json" CounterVideo="0" />
+    <time>
+      <item GetUrl="https://time-server.nekkimobile.ru/time.json" />
+    </time>
+    <dumps />
+    <server>
+      <item PutUrl="https://shadowfight.nekkimobile.ru/put.php" GetUrl="https://shadowfight.nekkimobile.ru/get.php" PlatformID="2" />
+      <item PutUrl="https://shadowfight.nekkimobile.ru/put.php" GetUrl="https://shadowfight.nekkimobile.ru/get.php" PlatformID="11" />
+    </server>
+    <verification Url="https://payservice.nekkimobile.ru" Timeout="15000" MaxRetry="2" Frequency="1" />
+    <raids configUrl="https://github.com/XxXDestroyer777XxX/config_cdn/raw/refs/heads/main/raid_configs_all.zip" />
+    <ledger Url="" Timeout="0" MaxRetry="0" />
+    <notifications>
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="2" />
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="11" />
+    </notifications>
+  </settings>
+  <packs>
+
+  </packs>
+  <price />
+  <currency>
+    <item ID="1" Name="Gold" Alias="money" />
+    <item ID="2" Name="Bonus" Alias="bonus" />
+    <item ID="3" Name="StarterPack" Alias="starterpack" Gems="30" />
+    <item ID="4" Name="UnlimitedEnergy" Alias="unlimitedenergy" />
+  </currency>
+  <payments>
+    <item ProductType="1" Name="Consumable" />
+    <item ProductType="2" Name="Nonconsumable" />
+  </payments>
+  <RewardedAdViews>
+    <item Type="LotterySpin" Max="1" PlatformID="2" />
+    <item Type="LotterySpin" Max="1" PlatformID="11" />
+  </RewardedAdViews>
+  <AdSettings>
+    <item RewardedAdCacheTimeout="0" PlatformID="2" />
+    <item RewardedAdCacheTimeout="0" PlatformID="11" />
+  </AdSettings>
+  <FightSpenderType />
+</data>

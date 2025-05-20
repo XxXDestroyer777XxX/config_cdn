@@ -2,10 +2,10 @@
 <data>
   <ConfigVersion Value="" />
   <ConfigVersions>
-    <ConfigVersion Value="69" PlatformID="1" />
-    <ConfigVersion Value="69" PlatformID="2" />
+    <ConfigVersion Value="65" PlatformID="1" />
+    <ConfigVersion Value="65" PlatformID="2" />
     <ConfigVersion Value="" PlatformID="3" />
-    <ConfigVersion Value="69" PlatformID="11" />
+    <ConfigVersion Value="65" PlatformID="11" />
   </ConfigVersions>
   <ReleaseSendLogChance Hack="1" Exc="1" NuR="1" Dbl="1" />
   <BalancerItemSortType Value="1" />
@@ -72,11 +72,11 @@
     <item PlatformID="11" Name="Huawei" />
   </platform>
   <versions>
-    <item ID="8" PlatformID="2" Version="2.14.0" ReleaseDate="" />
-    <item ID="9" PlatformID="1" Version="2.14.0" ReleaseDate="" />
+    <item ID="8" PlatformID="2" Version="2.22.0" ReleaseDate="" />
+    <item ID="9" PlatformID="1" Version="2.22.0" ReleaseDate="" />
     <item ID="10" PlatformID="3" Version="" ReleaseDate="" />
-    <item ID="11" PlatformID="9" Version="2.14.0" ReleaseDate="" />
-    <item ID="12" PlatformID="11" Version="2.14.0" ReleaseDate="" />
+    <item ID="11" PlatformID="9" Version="2.22.0" ReleaseDate="" />
+    <item ID="12" PlatformID="11" Version="2.22.0" ReleaseDate="" />
   </versions>
   <gamedata>
     <!-- rabotaet-->

@@ -26,43 +26,43 @@
   </IgnoredExceptions>
   <Variables>
     <!-- Event Vars -->
-    <item Name="EventEnd" Value="1658134800" PlatformID="1,2,3,11" MinVersion="2.14.0" />
-    <!-- <item Name="MiniEventEnd" Value="1654851600" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="FestivalOfferEnd" Value="1654851600" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventAnnounceTitle" Value="MiniEventAnnounceTitle" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventAnnounce_Text" Value="MiniEventAnnounce" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Story_Image_1" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Story_Title_1" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Story_1" Value="MiniEventStory_1" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Story_Image_2" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Story_Title_2" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Story_2" Value="MiniEventStory_2" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventFightEnter_Title" Value="RAIDBOSS_LAMB_Title" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventFightEnter_Image" Value="boss_lamb" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventFight_Enter_1" Value="MiniEventStory_EnterBattle" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Loss_Image_1" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Loss_Title_1" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Loss_1" Value="MiniEventStory_Loss_1" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Loss_Image_2" Value="boss_lamb" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Loss_Title_2" Value="RAIDBOSS_LAMB_Title" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Loss_2" Value="MiniEventStory_Loss_2" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Win_Image_1" Value="boss_lamb" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Win_Title_1" Value="RAIDBOSS_LAMB_Title" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Win_1" Value="MiniEventStory_Win_1" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Win_Image_2" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Win_Title_2" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Win_2" Value="MiniEventStory_Win_2" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventProlongEvent" Value="0" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEventBossTip" Value="0" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
-    <!-- <item Name="MiniEvent_Boss_Tip" Value="" PlatformID="1,2,3,11,13" MinVersion="2.14.0" /> -->
+    <item Name="EventEnd" Value="1658134800" PlatformID="1,2,3,11" MinVersion="2.21.0" />
+    <!-- <item Name="MiniEventEnd" Value="1654851600" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="FestivalOfferEnd" Value="1654851600" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventAnnounceTitle" Value="MiniEventAnnounceTitle" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventAnnounce_Text" Value="MiniEventAnnounce" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Story_Image_1" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Story_Title_1" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Story_1" Value="MiniEventStory_1" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Story_Image_2" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Story_Title_2" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Story_2" Value="MiniEventStory_2" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventFightEnter_Title" Value="RAIDBOSS_LAMB_Title" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventFightEnter_Image" Value="boss_lamb" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventFight_Enter_1" Value="MiniEventStory_EnterBattle" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Loss_Image_1" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Loss_Title_1" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Loss_1" Value="MiniEventStory_Loss_1" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Loss_Image_2" Value="boss_lamb" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Loss_Title_2" Value="RAIDBOSS_LAMB_Title" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Loss_2" Value="MiniEventStory_Loss_2" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Win_Image_1" Value="boss_lamb" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Win_Title_1" Value="RAIDBOSS_LAMB_Title" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Win_1" Value="MiniEventStory_Win_1" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Win_Image_2" Value="character_pristess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Win_Title_2" Value="characterMiniEventPriestess" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Win_2" Value="MiniEventStory_Win_2" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventProlongEvent" Value="0" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEventBossTip" Value="0" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
+    <!-- <item Name="MiniEvent_Boss_Tip" Value="" PlatformID="1,2,3,11,13" MinVersion="2.16.0" /> -->
     <!-- Event Vars -->
     <item Name="NotEnoughCurrencyColor" Value="#9b1c07" />
     <item Name="AutoShowRaidDailyWindow" Value="1" />
     <item Name="SurvivalRestartLimitPerFight" Value="1" />
     <item Name="SurvivalRestartTimerValue" Value="10" />
-    <item Name="JuniorLotteryTime" Value="86400" PlatformID="1" MinVersion="2.14.0" />
-    <item Name="JuniorLotteryTime" Value="86400" PlatformID="2" MinVersion="2.14.0" />
-    <item Name="JuniorLotteryTime" Value="86400" PlatformID="11" MinVersion="2.14.0" />
+    <item Name="JuniorLotteryTime" Value="86400" PlatformID="1" MinVersion="2.15.0" />
+    <item Name="JuniorLotteryTime" Value="86400" PlatformID="2" MinVersion="2.15.0" />
+    <item Name="JuniorLotteryTime" Value="86400" PlatformID="11" MinVersion="2.15.0" />
   </Variables>
   <platform>
     <item PlatformID="1" Name="iOS" />
@@ -75,7 +75,7 @@
     <item ID="8" PlatformID="2" Version="2.14.0" ReleaseDate="" />
     <item ID="9" PlatformID="1" Version="2.14.0" ReleaseDate="" />
     <item ID="10" PlatformID="3" Version="" ReleaseDate="" />
-    <item ID="11" PlatformID="9" Version="2.14.0" ReleaseDate="" />
+    <item ID="11" PlatformID="9" Version="2.9.0" ReleaseDate="" />
     <item ID="12" PlatformID="11" Version="2.14.0" ReleaseDate="" />
   </versions>
   <gamedata>

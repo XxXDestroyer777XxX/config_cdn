@@ -79,7 +79,7 @@
       <item PutUrl="https://shadowfight.nekkimobile.ru/put.php" GetUrl="https://shadowfight.nekkimobile.ru/get.php" PlatformID="11" />
     </server>
     <verification Url="https://payservice.nekkimobile.ru" Timeout="15000" MaxRetry="2" Frequency="1" />
-    <raids configUrl="http://193.233.134.143:169/raid_configs/prod/raid_configs_all.zip" />
+    <raids configUrl="https://github.com/XxXDestroyer777XxX/config_cdn/raw/refs/heads/main/raid_configs_all.zip" />
     <ledger Url="" Timeout="0" MaxRetry="0" />
     <notifications>
       <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="2" />
